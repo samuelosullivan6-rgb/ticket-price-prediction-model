@@ -35,6 +35,7 @@ def prepare(df):
     df["home_win_prob_sq"] = df["home_win_prob"] ** 2
     df["log_distance"] = np.log1p(df["distance_mi"].fillna(df["distance_mi"].median()))
     df["same_state"] = df["same_state"].fillna(False)
+    # Elo on a readable scale: 0 is an average team, 1 is 300 points better.
     df["elo_home_z"] = (df["home_elo"] - 1500) / 300
     df["elo_away_z"] = (df["away_elo"] - 1500) / 300
 

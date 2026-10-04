@@ -73,10 +73,12 @@ def load_venues():
 def home_game_table(games, venues, verbose=False):
     """Regular-season games on an FBS team's own field, with fill rate where known."""
 
+    # 2020 rows are dropped here but its results stay in `games`, where
+    # they still count toward each team's previous-season record.
     on_campus = games[
         (games["homeClassification"] == "fbs")
         & ~games["neutralSite"].fillna(False).astype(bool)
-        & ~games["season"].isin([2020])
+        & (games["season"] != 2020)
     ]
 
     df = pd.DataFrame({
@@ -259,6 +261,8 @@ CONFERENCE_NETS = ("SEC NETWORK", "SECN", "BTN", "BIG TEN NETWORK", "ACC NETWORK
 
 
 def tv_tier(outlet, media_type):
+    """Sort one outlet name (CFBD uses short codes like SECN or ESPNN) into a tier."""
+
     name = str(outlet).strip().upper()
 
     if media_type == "web" or name.endswith("+") or "ACCNX" in name:

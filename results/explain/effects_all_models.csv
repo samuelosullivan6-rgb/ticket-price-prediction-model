@@ -49,31 +49,31 @@ Wind 15 mph+,Tobit (latent demand),-3.666,-5.4686,-1.8633,0.0001,-1886.7589,-112
 Home opener,Tobit (latent demand),3.0673,1.9647,4.17,0.0,1578.6617,93790.0134
 October game (vs. September),Tobit (latent demand),1.9636,0.6324,3.2949,0.0038,1010.6299,60042.6223
 November game (vs. September),Tobit (latent demand),-0.9874,-2.5116,0.5368,0.2042,-508.1928,-30192.2859
-Noon kickoff (vs. night),Tobit (reported crowd),-3.6962,-4.7288,-2.6635,0.0,-1239.2626,-65232.5676
-Afternoon kickoff (vs. night),Tobit (reported crowd),-1.6801,-2.6371,-0.7231,0.0006,-563.3145,-29651.8698
-Weeknight game (vs. Saturday),Tobit (reported crowd),-5.8666,-7.2782,-4.455,0.0,-1966.9636,-103537.4515
-ABC / CBS / NBC / FOX (vs. stream only),Tobit (reported crowd),6.1779,4.2922,8.0637,0.0,2071.3514,109032.237
-ESPN / ESPN2 (vs. stream only),Tobit (reported crowd),1.1725,-0.3391,2.6841,0.1284,393.1224,20693.2613
-Other national cable (vs. stream only),Tobit (reported crowd),0.3108,-0.8551,1.4768,0.6013,104.2211,5486.0148
-Conference network (vs. stream only),Tobit (reported crowd),0.4036,-1.0197,1.8269,0.5784,135.3153,7122.7548
-Ranked opponent,Tobit (reported crowd),4.7872,3.4089,6.1656,0.0,1605.0726,84488.1556
-Power-conference opponent,Tobit (reported crowd),9.2999,7.9153,10.6844,0.0,3118.0782,164130.0648
-FCS opponent,Tobit (reported crowd),-2.2951,-3.66,-0.9302,0.001,-769.5083,-40505.5442
-Conference game,Tobit (reported crowd),-4.8452,-6.3398,-3.3506,0.0,-1624.5217,-85511.9202
-Opponent's campus twice as far away,Tobit (reported crowd),-1.2297,-1.5917,-0.8677,0.0,-412.2915,-21702.2905
-Home team ranked,Tobit (reported crowd),4.2742,2.8484,5.6999,0.0,1433.0457,75432.9684
-"Home win % so far, +25 pts",Tobit (reported crowd),3.935,2.9666,4.9034,0.0,1319.3298,69447.1614
-"Home win % last season, +25 pts",Tobit (reported crowd),3.2037,2.5203,3.8871,0.0,1074.1394,56540.778
-Home team a heavy favorite (85% vs. 50%),Tobit (reported crowd),-0.6054,-1.4923,0.2814,0.1809,-202.9942,-10685.2535
-Home team an underdog (30% vs. 50%),Tobit (reported crowd),-0.3264,-1.0099,0.3571,0.3493,-109.4401,-5760.7319
-Kickoff under 40 F (vs. 55-75 F),Tobit (reported crowd),-8.1232,-9.9706,-6.2759,0.0,-2723.5751,-143364.129
-Kickoff 85 F or hotter (vs. 55-75 F),Tobit (reported crowd),0.2132,-1.1513,1.5776,0.7594,71.4766,3762.4024
-"Rain, 0.1 in+ around kickoff",Tobit (reported crowd),-1.7002,-2.7958,-0.6045,0.0024,-570.0373,-30005.7445
-"Heavy rain, 0.5 in+ (added to rain)",Tobit (reported crowd),-2.1088,-4.5598,0.3423,0.0917,-707.035,-37217.0601
-Wind 15 mph+,Tobit (reported crowd),-3.666,-5.4686,-1.8633,0.0001,-1229.1311,-64699.2639
-Home opener,Tobit (reported crowd),3.0673,1.9647,4.17,0.0,1028.4208,54134.2335
-October game (vs. September),Tobit (reported crowd),1.9636,0.6324,3.2949,0.0038,658.3759,34655.7295
-November game (vs. September),Tobit (reported crowd),-0.9874,-2.5116,0.5368,0.2042,-331.0627,-17426.5489
+Noon kickoff (vs. night),Tobit (reported crowd),-2.7417,-3.5077,-1.9758,0.0,-1239.2626,-65232.5676
+Afternoon kickoff (vs. night),Tobit (reported crowd),-1.2463,-1.9561,-0.5364,0.0006,-563.3145,-29651.8698
+Weeknight game (vs. Saturday),Tobit (reported crowd),-4.3517,-5.3988,-3.3046,0.0,-1966.9636,-103537.4515
+ABC / CBS / NBC / FOX (vs. stream only),Tobit (reported crowd),4.5826,3.1838,5.9814,0.0,2071.3514,109032.237
+ESPN / ESPN2 (vs. stream only),Tobit (reported crowd),0.8697,-0.2515,1.991,0.1284,393.1224,20693.2613
+Other national cable (vs. stream only),Tobit (reported crowd),0.2306,-0.6343,1.0955,0.6013,104.2211,5486.0148
+Conference network (vs. stream only),Tobit (reported crowd),0.2994,-0.7564,1.3552,0.5784,135.3153,7122.7548
+Ranked opponent,Tobit (reported crowd),3.5511,2.5286,4.5735,0.0,1605.0726,84488.1556
+Power-conference opponent,Tobit (reported crowd),6.8984,5.8714,7.9254,0.0,3118.0782,164130.0648
+FCS opponent,Tobit (reported crowd),-1.7025,-2.7149,-0.69,0.001,-769.5083,-40505.5442
+Conference game,Tobit (reported crowd),-3.5941,-4.7027,-2.4854,0.0,-1624.5217,-85511.9202
+Opponent's campus twice as far away,Tobit (reported crowd),-0.9122,-1.1807,-0.6436,0.0,-412.2915,-21702.2905
+Home team ranked,Tobit (reported crowd),3.1705,2.1129,4.2281,0.0,1433.0457,75432.9684
+"Home win % so far, +25 pts",Tobit (reported crowd),2.9189,2.2005,3.6372,0.0,1319.3298,69447.1614
+"Home win % last season, +25 pts",Tobit (reported crowd),2.3764,1.8695,2.8834,0.0,1074.1394,56540.778
+Home team a heavy favorite (85% vs. 50%),Tobit (reported crowd),-0.4491,-1.107,0.2088,0.1809,-202.9942,-10685.2535
+Home team an underdog (30% vs. 50%),Tobit (reported crowd),-0.2421,-0.7491,0.2649,0.3493,-109.4401,-5760.7319
+Kickoff under 40 F (vs. 55-75 F),Tobit (reported crowd),-6.0256,-7.396,-4.6553,0.0,-2723.5751,-143364.129
+Kickoff 85 F or hotter (vs. 55-75 F),Tobit (reported crowd),0.1581,-0.854,1.1702,0.7594,71.4766,3762.4024
+"Rain, 0.1 in+ around kickoff",Tobit (reported crowd),-1.2611,-2.0739,-0.4484,0.0024,-570.0373,-30005.7445
+"Heavy rain, 0.5 in+ (added to rain)",Tobit (reported crowd),-1.5642,-3.3824,0.2539,0.0917,-707.035,-37217.0601
+Wind 15 mph+,Tobit (reported crowd),-2.7193,-4.0565,-1.3822,0.0001,-1229.1311,-64699.2639
+Home opener,Tobit (reported crowd),2.2753,1.4573,3.0932,0.0,1028.4208,54134.2335
+October game (vs. September),Tobit (reported crowd),1.4566,0.4691,2.444,0.0038,658.3759,34655.7295
+November game (vs. September),Tobit (reported crowd),-0.7324,-1.863,0.3982,0.2042,-331.0627,-17426.5489
 Noon kickoff (vs. night),Two-part: fill if not sold out,-2.6237,-3.6205,-1.6269,0.0,-1216.5,-65499.3092
 Afternoon kickoff (vs. night),Two-part: fill if not sold out,-1.1743,-2.1447,-0.2038,0.0177,-544.4518,-29314.6022
 Weeknight game (vs. Saturday),Two-part: fill if not sold out,-5.4289,-6.8687,-3.9891,0.0,-2517.1454,-135529.205

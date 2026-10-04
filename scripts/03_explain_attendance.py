@@ -91,8 +91,10 @@ def effect_rows(name, params, cov, games, observed_share=1.0):
     weren't selling out anyway); it's 1 for the OLS models.
     """
 
-    seats_per_point = (games["capacity"] * observed_share).mean()
-    dollars_per_point = (games["capacity"] * games["assumed_price"] * observed_share).mean()
+    share = np.broadcast_to(observed_share, len(games))
+    points_per_unit = 100 * share.mean()
+    seats_per_unit = (games["capacity"] * share).mean()
+    dollars_per_unit = (games["capacity"] * games["assumed_price"] * share).mean()
 
     rows = []
     for label, weights in EFFECTS.items():
@@ -102,12 +104,12 @@ def effect_rows(name, params, cov, games, observed_share=1.0):
         rows.append({
             "effect": label,
             "model": name,
-            "pts_of_capacity": 100 * estimate,
-            "ci_low": 100 * (estimate - 1.96 * se),
-            "ci_high": 100 * (estimate + 1.96 * se),
+            "pts_of_capacity": estimate * points_per_unit,
+            "ci_low": (estimate - 1.96 * se) * points_per_unit,
+            "ci_high": (estimate + 1.96 * se) * points_per_unit,
             "p_value": 2 * norm.sf(abs(estimate / se)),
-            "seats_per_game": estimate * seats_per_point,
-            "dollars_per_game_at_assumed_price": estimate * dollars_per_point,
+            "seats_per_game": estimate * seats_per_unit,
+            "dollars_per_game_at_assumed_price": estimate * dollars_per_unit,
         })
     return pd.DataFrame(rows)
 
