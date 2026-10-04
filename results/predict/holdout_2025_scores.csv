@@ -1,0 +1,6 @@
+,mae_pts_of_capacity,rmse_pts_of_capacity,mae_seats,r_squared
+Last season's average,8.084,11.711,3220.522,0.706
+Season so far,7.481,11.468,2876.48,0.718
+Fixed-effects regression,8.215,11.308,3313.941,0.726
+Gradient boosting,6.198,9.174,2486.998,0.819
+"Gradient boosting, no fill so far",6.698,9.639,2724.789,0.801

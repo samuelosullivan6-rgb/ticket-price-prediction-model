@@ -1,0 +1,12 @@
+,value
+gbm_brier,0.0842
+baseline_brier,0.1156
+gbm_auc,0.9472
+band_coverage_10_90,0.7818
+share_of_games_actually_low,0.259
+at_risk_flagged,136.0
+at_risk_precision,0.7721
+at_risk_recall,0.473
+no_fill_so_far_at_risk_flagged,108.0
+no_fill_so_far_at_risk_precision,0.6852
+no_fill_so_far_at_risk_recall,0.3333

@@ -1,0 +1,41 @@
+season,week,home_team,away_team,kick_slot,tv,away_rank,capacity,attendance,demand_if_sold_out,unmet_seats,unmet_dollars_at_assumed_price
+2025,8,BYU,Utah,night,broadcast,23.0,63470.0,64794.0,1.355,22551.057,1691329.291
+2024,9,Kansas State,Kansas,night,espn,,50000.0,52074.0,1.353,17674.796,1325609.712
+2016,13,Alabama,Auburn,afternoon,broadcast,16.0,101821.0,101821.0,1.336,34224.648,2566848.573
+2024,3,Kansas State,Arizona,night,broadcast,20.0,50000.0,51290.0,1.331,16527.776,1239583.197
+2015,13,Florida,Florida State,night,espn,14.0,88548.0,90916.0,1.328,29051.427,2178857.003
+2015,6,Kansas State,TCU,night,broadcast,2.0,50000.0,53671.0,1.321,16060.121,1204509.056
+2016,5,Clemson,Louisville,night,broadcast,3.0,81500.0,83362.0,1.319,25996.863,1949764.721
+2022,9,Kansas State,Oklahoma State,afternoon,broadcast,9.0,50000.0,51133.0,1.315,15737.858,1180339.334
+2017,13,Auburn,Alabama,afternoon,broadcast,1.0,87451.0,87451.0,1.308,26946.295,2020972.098
+2016,13,Florida State,Florida,night,broadcast,13.0,67277.0,78342.0,1.308,20711.167,1553337.525
+2025,1,Clemson,LSU,night,broadcast,9.0,81500.0,81500.0,1.306,24960.376,1872028.225
+2015,7,Kansas State,Oklahoma,afternoon,broadcast,19.0,50000.0,52867.0,1.301,15047.748,1128581.065
+2024,5,Alabama,Georgia,night,broadcast,2.0,101821.0,100077.0,1.301,30630.176,2297263.189
+2025,8,Alabama,Tennessee,night,broadcast,11.0,101821.0,100077.0,1.299,30492.405,2286930.364
+2024,2,Iowa,Iowa State,afternoon,broadcast,,69250.0,69250.0,1.299,20707.507,1553062.991
+2016,13,Clemson,South Carolina,night,espn,,81500.0,81542.0,1.298,24249.329,1818699.7
+2017,8,Penn State,Michigan,night,broadcast,19.0,106572.0,110823.0,1.296,31529.009,2364675.656
+2017,2,Ohio State,Oklahoma,night,broadcast,5.0,102780.0,109088.0,1.293,30125.482,2259411.186
+2015,13,NC State,North Carolina,afternoon,broadcast,11.0,58000.0,57600.0,1.291,16895.329,1267149.65
+2016,8,Alabama,Texas A&M,afternoon,broadcast,6.0,101821.0,101821.0,1.288,29357.113,2201783.439
+2017,2,Penn State,Pittsburgh,afternoon,broadcast,,106572.0,109898.0,1.287,30602.855,2295214.146
+2023,8,Alabama,Tennessee,afternoon,broadcast,17.0,101821.0,100077.0,1.282,28676.431,2150732.344
+2022,1,Ohio State,Notre Dame,night,broadcast,5.0,102780.0,106594.0,1.281,28873.892,2165541.885
+2022,13,Kansas State,Kansas,night,broadcast,,50000.0,51861.0,1.28,14008.362,1050627.185
+2017,10,Alabama,LSU,night,broadcast,19.0,101821.0,101821.0,1.279,28437.665,2132824.9
+2025,2,Iowa State,Iowa,noon,broadcast,,61500.0,61500.0,1.278,17080.449,1281033.701
+2024,1,Florida,Miami,afternoon,broadcast,19.0,88548.0,90544.0,1.278,24575.389,1843154.139
+2015,6,Florida State,Miami,night,broadcast,,67277.0,82329.0,1.276,18550.553,1391291.475
+2022,10,NC State,Wake Forest,night,conference_net,20.0,58000.0,56919.0,1.275,15935.807,1195185.551
+2024,5,Penn State,Illinois,night,broadcast,19.0,106572.0,109911.0,1.274,29242.62,2193196.502
+2023,1,Penn State,West Virginia,night,broadcast,,106572.0,110747.0,1.273,29144.914,2185868.551
+2025,6,Alabama,Vanderbilt,afternoon,broadcast,16.0,101821.0,100077.0,1.273,27815.393,2086154.487
+2019,14,Auburn,Alabama,afternoon,broadcast,5.0,87451.0,87451.0,1.273,23858.536,1789390.227
+2022,5,Clemson,NC State,night,broadcast,10.0,81500.0,81500.0,1.272,22181.683,1663626.252
+2015,10,Alabama,LSU,night,broadcast,4.0,101821.0,101821.0,1.272,27670.615,2075296.124
+2024,9,Alabama,Missouri,afternoon,broadcast,21.0,101821.0,100077.0,1.271,27633.568,2072517.618
+2019,6,Florida,Auburn,afternoon,broadcast,7.0,88548.0,90584.0,1.27,23941.761,1795632.044
+2023,8,Ohio State,Penn State,noon,broadcast,7.0,102780.0,105506.0,1.27,27716.303,2078722.757
+2023,10,Alabama,LSU,night,broadcast,13.0,101821.0,100077.0,1.269,27431.345,2057350.91
+2019,6,Ohio State,Michigan State,night,broadcast,25.0,102780.0,104797.0,1.269,27688.556,2076641.716

@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Secrets: the CFBD API key lives here
+.env
+
+# --------------------------------------------------
+# Raw API pulls are a local cache, not source. Anyone can rebuild them
+# with `python scripts/01_pull_data.py` and their own free CFBD key.
+# The processed table, results and predictions stay tracked so the repo
+# shows its findings without running anything.
+# --------------------------------------------------
+data/raw/

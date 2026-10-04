@@ -1,0 +1,5 @@
+model,curvature,curvature_p_value,peak_home_win_prob,peak_ci_low,peak_ci_high
+OLS,-0.0132,0.6415,0.4613,-0.5672,1.4897
+OLS + Elo ratings,0.0049,0.8611,-0.3006,-11.0801,10.4788
+"OLS, team x season FE",0.0137,0.6203,2.2242,-4.2295,8.6779
+Tobit (latent demand),-0.0611,0.055,0.5335,0.3301,0.7369

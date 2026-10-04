@@ -1,0 +1,26 @@
+effect,model,pts_of_probability,ci_low,ci_high,p_value
+Noon kickoff (vs. night),Two-part: sellout chance,-5.7094,-8.1859,-3.2329,0.0
+Afternoon kickoff (vs. night),Two-part: sellout chance,-2.8894,-4.8635,-0.9153,0.0041
+Weeknight game (vs. Saturday),Two-part: sellout chance,-4.5449,-7.1349,-1.9549,0.0006
+ABC / CBS / NBC / FOX (vs. stream only),Two-part: sellout chance,13.0375,9.0381,17.0369,0.0
+ESPN / ESPN2 (vs. stream only),Two-part: sellout chance,0.9453,-2.716,4.6065,0.6128
+Other national cable (vs. stream only),Two-part: sellout chance,-1.0144,-3.4512,1.4224,0.4145
+Conference network (vs. stream only),Two-part: sellout chance,-0.2065,-3.7754,3.3624,0.9097
+Ranked opponent,Two-part: sellout chance,9.5182,6.5876,12.4488,0.0
+Power-conference opponent,Two-part: sellout chance,11.1439,8.0514,14.2365,0.0
+FCS opponent,Two-part: sellout chance,-4.3823,-7.4861,-1.2784,0.0057
+Conference game,Two-part: sellout chance,-5.9953,-9.1636,-2.8271,0.0002
+Opponent's campus twice as far away,Two-part: sellout chance,-1.4854,-2.2522,-0.7186,0.0001
+Home team ranked,Two-part: sellout chance,13.5873,9.3186,17.8561,0.0
+"Home win % so far, +25 pts",Two-part: sellout chance,4.6731,2.619,6.7272,0.0
+"Home win % last season, +25 pts",Two-part: sellout chance,4.3558,2.82,5.8916,0.0
+Home team a heavy favorite (85% vs. 50%),Two-part: sellout chance,-3.0588,-5.2546,-0.863,0.0063
+Home team an underdog (30% vs. 50%),Two-part: sellout chance,0.3995,-0.7433,1.5424,0.4932
+Kickoff under 40 F (vs. 55-75 F),Two-part: sellout chance,-6.0588,-9.5571,-2.5604,0.0007
+Kickoff 85 F or hotter (vs. 55-75 F),Two-part: sellout chance,-1.131,-4.1562,1.8942,0.4637
+"Rain, 0.1 in+ around kickoff",Two-part: sellout chance,-2.3634,-4.6352,-0.0915,0.0415
+"Heavy rain, 0.5 in+ (added to rain)",Two-part: sellout chance,-1.1832,-7.5378,5.1713,0.7151
+Wind 15 mph+,Two-part: sellout chance,-4.7386,-8.1513,-1.3258,0.0065
+Home opener,Two-part: sellout chance,2.8496,0.3661,5.333,0.0245
+October game (vs. September),Two-part: sellout chance,3.1466,0.2614,6.0318,0.0325
+November game (vs. September),Two-part: sellout chance,0.7796,-2.0987,3.6579,0.5955
